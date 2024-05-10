@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 08 May 2023 07:37:37 GMT
+// Generated on Fri, 10 May 2024 14:18:14 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -17,7 +17,8 @@ ColorColorsSingleBlue,
 ColorColorsRefBlue,
 ColorColorsEmpty,
 ColorColorsSpecialCharacters,
-ColorColorsSpecialCharactersNderung
+ColorColorsSpecialCharactersNderung,
+VariablesCollection1ColorRed500
 };
 
 @interface StyleDictionaryColor : NSObject
