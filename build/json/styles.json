@@ -109,5 +109,6 @@
   "TypographyBodySuperLineHeight": 26.4,
   "TypographyBodySuperParagraphIndent": 0,
   "TypographyBodySuperParagraphSpacing": 0,
-  "TypographyBodySuperTextCase": "none"
+  "TypographyBodySuperTextCase": "none",
+  "VariablesCollection1ColorRed500": "#f90000ff"
 }
